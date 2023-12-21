@@ -1,8 +1,9 @@
 m- 👋 Hi, I’m @AlbertJohn444
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Computer sciences
+- 🌱 I’m currently learning ...Programing
+
+- 📫 How to reach me ...Whatsapp_256744051328
+
 
 <!---
 AlbertJohn444/AlbertJohn444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
